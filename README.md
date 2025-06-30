@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Toluwanimi Daniel Adeyemo
+# 👋 Hi, I'm Daniel Adeyemo
 
 I'm a **Computer Science student**, aspiring **embedded developer**, and **tech tinkerer**.
 
