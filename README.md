@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Adeyemo
+# 👋 Hi, I'm Tolu Adeyemo
 
 I'm a **Computer Science student**, aspiring **embedded developer**, and **tech tinkerer**.
 
