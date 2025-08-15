@@ -6,7 +6,7 @@ I'm a **Computer Science student** at the University of Aberdeen **aspiring **de
 
  Full-stack developer and Computer Science student at the University of Aberdeen.  
 I enjoy backend development, building crypto mining rigs, and solving problems through code.  
-Currently exploring systems programming with C and strengthening my DSA skills with LeetCode and real world projects.
+Currently exploring systems programming with C++ and strengthening my DSA skills with LeetCode and real world projects.
 
 
 ---
