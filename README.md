@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tolu Adeyemo
 
-I'm a **Computer Science student** at the University of Aberdeen **aspiring **developer**, and **tech tinkerer**.
+I'm a **Computer Science student** at the University of Aberdeen aspiring developer.
 
 ##  About Me
 
