@@ -9,7 +9,7 @@ I enjoy backend development, building crypto mining rigs, and solving problems t
 Currently exploring systems programming with C++ and strengthening my DSA skills with LeetCode and real world projects.
 
  # Work in Progress#
-<small>▶ <a href="https://tadeyemo32.github.io/portfolio/">Portfolio Website</a></small>
+<small><a href="https://tadeyemo32.github.io/portfolio/">Portfolio Website</a></small>
 ---
 ## 🛠️ My Tech Stack
 
