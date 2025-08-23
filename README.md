@@ -8,8 +8,8 @@ I'm a **Computer Science student** at the University of Aberdeen aspiring develo
 I enjoy backend development, building crypto mining rigs, and solving problems through code.  
 Currently exploring systems programming with C++ and strengthening my DSA skills with LeetCode and real world projects.
 
-### Work in Progress 🚧
-<small><a href="https://tadeyemo32.github.io/portfolio/">Portfolio Website</a></small>
+### Work in Progress 
+<small><a href="https://portfolio-eight-mu-8ux8n1fldx.vercel.app">Portfolio Website</a></small>
 
 
 
