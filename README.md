@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Tolu Adeyemo
+#  Hi, I'm Tolu Adeyemo
 
 **Computer Science Student** | **Full-Stack Developer** | **Systems Programming Enthusiast**
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a dedicated Computer Science student at the University of Aberdeen with a passion for building robust, efficient software solutions. My interests span full-stack development, systems programming, and hardware optimization through crypto mining rigs. I'm currently deepening my expertise in C++ for systems programming while strengthening my data structures and algorithms skills through LeetCode challenges and real-world projects.
+I'm a dedicated Computer Science student at the University of Aberdeen with a passion for building robust, efficient software solutions. My interests span full-stack development, systems programming, fine-tuning crypto mining rigs, algorithms, and solutions. I'm currently deepening my expertise in C++ for systems programming while strengthening my data structures and algorithms skills through LeetCode challenges and real-world projects.
 
 **Current Focus:**
 - Advancing systems programming proficiency with C++
 - Enhancing problem-solving skills through algorithmic challenges
 - Developing full-stack applications with modern technologies
+- Exploring how gRPC can help reduce latency in financial applications and quantitative solutions 
 
 ---
 
@@ -21,7 +22,7 @@ I'm a dedicated Computer Science student at the University of Aberdeen with a pa
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python 3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -58,14 +59,7 @@ I'm a dedicated Computer Science student at the University of Aberdeen with a pa
 
 ---
 
-## 📈 Current Projects
-
-- **Portfolio Website** - Developing a professional portfolio to showcase my projects and skills
-  - Status: In Progress | [View Preview](https://portfolio-eight-mu-8ux8n1fldx.vercel.app)
-
----
-
-## 📫 Let's Connect
+##   Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
@@ -73,5 +67,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadeyemo32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tadeyemo32)
 
----
+
 
