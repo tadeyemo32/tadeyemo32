@@ -1,6 +1,3 @@
-
-**Computer Science Student** | **Full-Stack Developer** | **Systems Programming Enthusiast**
-
 ---
 
 ##  About Me
