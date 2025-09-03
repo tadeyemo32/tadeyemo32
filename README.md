@@ -1,4 +1,4 @@
-#  Hi, I'm Tolu Adeyemo
+#  Hi,
 
 **Computer Science Student** | **Full-Stack Developer** | **Systems Programming Enthusiast**
 
