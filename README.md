@@ -1,5 +1,3 @@
-# ⚡ Welcome
-Engineering Efficient Systems | Full-Stack Development | Algorithmic Problem-Solving
 
 **Computer Science Student** | **Full-Stack Developer** | **Systems Programming Enthusiast**
 
