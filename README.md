@@ -1,4 +1,4 @@
-#  Hi,
+#  Wekcom,
 
 **Computer Science Student** | **Full-Stack Developer** | **Systems Programming Enthusiast**
 
