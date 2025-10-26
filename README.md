@@ -12,7 +12,7 @@ I'm a dedicated Computer Science student at the University of Aberdeen with a pa
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
